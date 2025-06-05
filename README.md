@@ -17,7 +17,7 @@ ESP32-S3作为主控，驱动两个1.28寸双目，并且支持4个触目节点�
 https://www.bilibili.com/video/BV15578zTEWF/ 
 
 ## 使用说明
-1. 获取代码：git clone https://github.com/SmartArduino/RoPet_ESPS3_AI_EYE.git
+1. 获取代码：git clone https://github.com/SmartArduino/DOIT_ESPS3_AI_EYE_Vision.git
 2. 使用vscode打开工程（需espidf版本>5.3.2）,设置目标芯片为esp32s3，命令：idf.py set-target esp32s3
 3. 编译工程：idf.py build
 4. 修改menuconfig:idf.py menuconfig
