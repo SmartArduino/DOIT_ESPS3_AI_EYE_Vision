@@ -26,8 +26,7 @@ https://www.bilibili.com/video/BV15578zTEWF/
 
 
 ## 硬件部分
-查看工程 hardware目录下的AI-EYE.PcbDoc / AI-EYE.SchDoc / datasheet目录
-
+双目摄像头硬件资料.zip
 ## 技术支持
 ![alt text](image.png)
 
